@@ -1,6 +1,6 @@
 # Hola 👋
 <br>❯ Mi nombre es Matias, soy de Argentina  y tengo 23 años.
-<br>❯ Actualmentee estudio en la Universidad Tecnológica Nacional FRSR una tecnicatura universitaria en programación.
+<br>❯ Actualmente estudio en la Universidad Tecnológica Nacional FRSR una tecnicatura universitaria en programación.
 <br>❯ Me dedico a todo lo que tenga que ver con computadoras y a la tecnología.
 
 
